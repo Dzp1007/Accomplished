@@ -5,4 +5,4 @@ GRE 300个单词（100新词+200旧词）
 
 通过GRE原题，熟悉gre题型
 
-完成maddpg.py
+读github其他库代码和Learning to track代码，完成maddpg.py
