@@ -8,3 +8,9 @@ GRE 300个单词（100新词+200旧词）
 准备托福110+
 
 读github其他库代码和Learning to track代码，完成maddpg.py
+## 1.20
+GRE 150个单词（50新词+100旧词）
+
+写完maddpg.py
+
+开始train.py
