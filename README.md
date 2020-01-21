@@ -19,4 +19,4 @@ GRE 300个单词（100新词+200旧词）
 
 练习GRE Verbal
 
-写train.py
+看其他仓库的代码，写train.py
