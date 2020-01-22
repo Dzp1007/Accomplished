@@ -29,3 +29,5 @@ GRE 300个单词（100新词+200旧词）
 练习GRE Verbal
 
 听力温习，听经济学人
+
+读Learning to track改代码
