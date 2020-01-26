@@ -48,3 +48,8 @@ GRE 300个单词（100新词+200旧词）
 看数分
 
 按Learning to track代码改maddpg
+
+## 1.26
+GRE 300个单词（100新词+200旧词）
+
+修改maddpg机制
