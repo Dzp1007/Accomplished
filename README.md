@@ -9,3 +9,5 @@ GRE300个单词（100新词+200旧词）
 读Pattern Recognition and Machine Learning
 ## 2.24
 GRE150个单词（50新词+100旧词）
+
+练习听力
